@@ -180,12 +180,12 @@ class Unmined {
 
     static defaultOptions = {
         enableGrid: true,
-        showGrid: true,
+        showGrid: false,
         binaryGrid: true,
-        showScaleBar: true,
+        showScaleBar: false,
         denseGrid: false,
         showMarkers: true,
-        showPlayers: true,
+        showPlayers: false,
         centerX: 0,
         centerZ: 0
     }
@@ -321,10 +321,10 @@ class Unmined {
         this.olMap = map;
 
         this.updateGraticule();
-        this.updateScaleBar();
+        // this.updateScaleBar();
         this.updateMarkersLayer();
         this.updatePlayerMarkersLayer();
-        this.olMap.addControl(this.createContextMenu());
+        // this.olMap.addControl(this.createContextMenu());
 
         this.redDotMarker = new RedDotMarker(this.olMap, this.dataProjection, this.viewProjection);
 
