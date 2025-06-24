@@ -44,7 +44,7 @@ UnminedCustomMarkers = {
 
         // Example 2: Marker with text
 		
-		{
+	{
             x: 0,
             z: -9500,
             text: "Карта мира",
@@ -52,11 +52,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 0,
             font: "75px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
+	    textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
         },
 		
-		{
+	{
             x: 0,
             z: -8375,
             text: "Телеграм админа: @DEV_KFC",
@@ -64,11 +64,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 0,
             font: "25px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
+	    textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
         },
 		
-		{
+	{
             x: 432,
             z: -240,
             image: "red-pin.svg",
@@ -79,7 +79,7 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 15,
             font: "15px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
+	    textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
         },
 		
@@ -94,11 +94,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 15,
             font: "15px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
+	    textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
         },
 		
-		{
+	{
             x: 3016,
             z: 5731,
             image: "red-house.svg",
@@ -109,11 +109,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 15,
             font: "15px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
+	    textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
         },
 		
-		{
+	{
             x: -6706,
             z: 6710,
             image: "grey-house.svg",
@@ -124,11 +124,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 15,
             font: "15px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
+	    textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
         },
 		
-		{
+	{
             x: -6666,
             z: 6014,
             image: "pink-industry.svg",
@@ -139,11 +139,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 13,
             font: "13px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
+	    textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
         },
 		
-		{
+	{
             x: 2792,
             z: 8230,
             image: "pink-gears.svg",
@@ -154,11 +154,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 22,
             font: "13px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
+	    textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
         },
 		
-		{
+	{
             x: 1885,
             z: 6612,
             image: "pink-gears.svg",
@@ -169,11 +169,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 13,
             font: "13px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
+	    textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
         },
 		
-		{
+	{
             x: 12349,
             z: 3179,
             image: "pink-gears.svg",
@@ -184,25 +184,10 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 13,
             font: "13px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
+	    textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
         },
-		
-        {
-            x: 1867,
-            z: 7610,
-            image: "custom.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-            text: "Нора Чубрилы",
-            textColor: "white", 
-            offsetX: 0,
-            offsetY: 20,
-            font: "bold 20px Calibri,sans serif",
-        }
 
-
-        // >>>>>>> 2c7bd5445b4ab29f4e433d54f5e7dac2555c9825
         // do not delete the following two closing brackets
     ]
 }
