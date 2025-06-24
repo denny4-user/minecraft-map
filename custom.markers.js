@@ -38,49 +38,156 @@ Use the imageScale property if the pin image is too large.
 
 UnminedCustomMarkers = {
 
-    isEnabled: false,
+    isEnabled: true,
 
     markers: [
 
-        // Example 1: Simple marker
-        {
-            x: -200,
-            z: -200,
-            image: "custom.pin.png",
-            imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-        },
-
         // Example 2: Marker with text
-        {
+		
+		{
             x: 0,
-            z: 0,
-            image: "custom.pin.png",
+            z: -9500,
+            text: "Карта мира",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 0,
+            font: "75px Calibri,sans serif",
+			textBackgroundColor: "#00000088",
+            textPadding: [2, 6, 2, 6],
+        },
+		
+		{
+            x: 0,
+            z: -8375,
+            text: "Телеграм админа: @DEV_KFC",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 0,
+            font: "25px Calibri,sans serif",
+			textBackgroundColor: "#00000088",
+            textPadding: [2, 6, 2, 6],
+        },
+		
+		{
+            x: 432,
+            z: -240,
+            image: "red-pin.svg",
             imageAnchor: [0.5, 1],
-            imageScale: 0.5,
-            text: "Marker with text",
-            textColor: "red", 
+            imageScale: 0.3,
+            text: "Спавн",
+            textColor: "white", 
             offsetX: 0,
-            offsetY: 20,
-            font: "bold 20px Calibri,sans serif",
+            offsetY: 15,
+            font: "15px Calibri,sans serif",
+			textBackgroundColor: "#00000088",
+            textPadding: [2, 6, 2, 6],
         },
-
-        // Example 3: Text only
+		
         {
-            x: 200,
-            z: 200,
-            text: "Text only", 
-            textColor: "yellow", 
+            x: 1867,
+            z: 7610,
+            image: "red-house.svg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Нора 4ubrila",
+            textColor: "white", 
             offsetX: 0,
-            offsetY: 0, 
-            font: "bold 50px Calibri,sans serif",
+            offsetY: 15,
+            font: "15px Calibri,sans serif",
+			textBackgroundColor: "#00000088",
+            textPadding: [2, 6, 2, 6],
         },
-
-        // add your markers here
-
-
-
-
+		
+		{
+            x: 3016,
+            z: 5731,
+            image: "red-house.svg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Нора denny4_user",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "15px Calibri,sans serif",
+			textBackgroundColor: "#00000088",
+            textPadding: [2, 6, 2, 6],
+        },
+		
+		{
+            x: -6706,
+            z: 6710,
+            image: "grey-house.svg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Старая нора denny4_user",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 15,
+            font: "15px Calibri,sans serif",
+			textBackgroundColor: "#00000088",
+            textPadding: [2, 6, 2, 6],
+        },
+		
+		{
+            x: -6666,
+            z: 6014,
+            image: "pink-industry.svg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Ферма железа",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 13,
+            font: "13px Calibri,sans serif",
+			textBackgroundColor: "#00000088",
+            textPadding: [2, 6, 2, 6],
+        },
+		
+		{
+            x: 2792,
+            z: 8230,
+            image: "pink-gears.svg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Авто-печь\nМоб-свитчер",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 22,
+            font: "13px Calibri,sans serif",
+			textBackgroundColor: "#00000088",
+            textPadding: [2, 6, 2, 6],
+        },
+		
+		{
+            x: 1885,
+            z: 6612,
+            image: "pink-gears.svg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Ферма пороха",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 13,
+            font: "13px Calibri,sans serif",
+			textBackgroundColor: "#00000088",
+            textPadding: [2, 6, 2, 6],
+        },
+		
+		{
+            x: 12349,
+            z: 3179,
+            image: "pink-gears.svg",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.3,
+            text: "Ферма слизи",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 13,
+            font: "13px Calibri,sans serif",
+			textBackgroundColor: "#00000088",
+            textPadding: [2, 6, 2, 6],
+        },
+		
         // do not delete the following two closing brackets
     ]
 }
