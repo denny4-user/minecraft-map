@@ -52,9 +52,9 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 0,
             font: "75px Calibri,sans serif",
-	    textBackgroundColor: "#00000088",
+			textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
-        },
+    },
 		
 	{
             x: 0,
@@ -64,9 +64,9 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 0,
             font: "25px Calibri,sans serif",
-	    textBackgroundColor: "#00000088",
+			textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
-        },
+    },
 		
 	{
             x: 432,
@@ -79,11 +79,11 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 15,
             font: "15px Calibri,sans serif",
-	    textBackgroundColor: "#00000088",
+			textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
-        },
+    },
 		
-        {
+    {
             x: 1867,
             z: 7610,
             image: "red-house.svg",
@@ -94,9 +94,9 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 15,
             font: "15px Calibri,sans serif",
-	    textBackgroundColor: "#00000088",
+			textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
-        },
+    },
 		
 	{
             x: 3016,
@@ -109,9 +109,9 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 15,
             font: "15px Calibri,sans serif",
-	    textBackgroundColor: "#00000088",
+			textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
-        },
+    },
 		
 	{
             x: -6706,
@@ -124,9 +124,9 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 15,
             font: "15px Calibri,sans serif",
-	    textBackgroundColor: "#00000088",
+			textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
-        },
+    },
 		
 	{
             x: -6666,
@@ -139,9 +139,9 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 13,
             font: "13px Calibri,sans serif",
-	    textBackgroundColor: "#00000088",
+			textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
-        },
+    },
 		
 	{
             x: 2792,
@@ -154,9 +154,9 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 22,
             font: "13px Calibri,sans serif",
-	    textBackgroundColor: "#00000088",
+			textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
-        },
+    },
 		
 	{
             x: 1885,
@@ -169,9 +169,9 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 13,
             font: "13px Calibri,sans serif",
-	    textBackgroundColor: "#00000088",
+			textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
-        },
+    },
 		
 	{
             x: 12349,
@@ -184,9 +184,9 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 13,
             font: "13px Calibri,sans serif",
-	    textBackgroundColor: "#00000088",
+			textBackgroundColor: "#00000088",
             textPadding: [2, 6, 2, 6],
-        },
+    },
 
         // do not delete the following two closing brackets
     ]
