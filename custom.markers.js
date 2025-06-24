@@ -188,6 +188,21 @@ UnminedCustomMarkers = {
             textPadding: [2, 6, 2, 6],
         },
 		
+        {
+            x: 1867,
+            z: 7610,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.5,
+            text: "Нора Чубрилы",
+            textColor: "white", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 20px Calibri,sans serif",
+        }
+
+
+        // >>>>>>> 2c7bd5445b4ab29f4e433d54f5e7dac2555c9825
         // do not delete the following two closing brackets
     ]
 }
