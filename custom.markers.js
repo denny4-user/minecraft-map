@@ -45,30 +45,6 @@ UnminedCustomMarkers = {
         // Example 2: Marker with text
 		
 	{
-            x: 0,
-            z: -9500,
-            text: "Карта мира",
-            textColor: "white", 
-            offsetX: 0,
-            offsetY: 0,
-            font: "75px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
-            textPadding: [2, 6, 2, 6],
-    },
-		
-	{
-            x: 0,
-            z: -8375,
-            text: "Телеграм админа: @DEV_KFC",
-            textColor: "white", 
-            offsetX: 0,
-            offsetY: 0,
-            font: "25px Calibri,sans serif",
-			textBackgroundColor: "#00000088",
-            textPadding: [2, 6, 2, 6],
-    },
-		
-	{
             x: 432,
             z: -240,
             image: "red-pin.svg",
